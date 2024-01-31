@@ -1,7 +1,7 @@
 # get_next_line
 get_next_line function in c:
 
-This projects is about creating a function that, allows to read a line ending with a newline character ('\n') from a file descriptor, without knowing its size beforehand. 
+This projects is about creating a function that, will read and return a line each time the function is called, from a file descriptor, without knowing the file descriptor size beforehand. 
 
 1. clone the repository:
    ```bash
